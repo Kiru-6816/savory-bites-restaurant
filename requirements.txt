@@ -1,0 +1,2 @@
+# This is a static website project with no server-side dependencies.
+# No requirements needed. Open index.html in a browser.
